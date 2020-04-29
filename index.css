@@ -1,0 +1,24 @@
+
+
+
+.titulo { color: rgb(255, 47, 47);}
+ 
+body { background: rgb(8, 8, 8); 
+margin-left: 50px;
+margin-right: 80px;
+margin-left: 80px;
+margin-right: 01px;}   
+
+header { text-align: center;
+  
+border-color:rgb(221, 87, 54);
+font-size: 30px;
+color:rgb(78, 47, 255);
+border-bottom: lime;
+border-color: lime;
+border-style: double;
+border-collapse: initial;}
+
+p { color: lawngreen ;
+font-size: 30px;}
+
